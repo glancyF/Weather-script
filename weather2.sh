@@ -54,7 +54,7 @@ if [ -n "$EMAIL" ]; then
 
   {
     echo "Subject: Počasí v $CITY"
-    echo "From: fnsed73@mgmail.com"
+    echo "From: your@email.com"
     echo "To: $EMAIL"
     echo "Content-Type: text/plain; charset=UTF-8"
     echo
