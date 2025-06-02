@@ -1,5 +1,5 @@
 # Weather-script
-# Weather Script 
+
 
 This Bash script fetches the current weather and a 5-day forecast for a specified city using the OpenWeatherMap API. Optionally, it can send the weather report by email.
 
